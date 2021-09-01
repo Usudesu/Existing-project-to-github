@@ -14,4 +14,4 @@ git commit -m "#comentario#"
   pegarla en Git Bash y dar enter
 7. Actualizar página en GitHub para ver cambios
 8. Reiniciar RStudio para que se actualiza la parte de Git
-9. Ya puedes hacer commit y pull push desde RStudio
+9. Ya puedes hacer commit y pull push desde RStudio 
